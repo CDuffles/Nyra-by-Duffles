@@ -389,7 +389,23 @@ export default function App() {
         </div>
         <h1 style={{ margin: 0, fontSize: 32, fontWeight: 700, letterSpacing: -1 }}>
           Aprendizado de Idiomas
-        </h1>
+        </h1> <a 
+  href="https://carolinaduffles.gumroad.com/l/qbkoj"
+  target="_blank"
+  style={{
+    display: "inline-block",
+    marginTop: 20,
+    padding: "14px 28px",
+    background: "#4a9eff",
+    color: "#000",
+    borderRadius: 12,
+    fontWeight: 700,
+    textDecoration: "none",
+    fontSize: 16
+  }}
+>
+  🔓 Desbloquear plano completo
+</a>
         <p style={{ margin: "8px 0 0", color: "#888", fontSize: 14 }}>
           Estimativa de tópicos e lições por nível · A1 → C2
         </p>
